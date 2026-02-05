@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
+
+# Slide deck render outputs
+content/slide-deck.html
+content/slide-deck.pdf
+content/slide-deck.pptx
+content/slide-deck.docx
+content/_output/
+content/.quarto/
